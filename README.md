@@ -7,6 +7,7 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Tecnologías](#tecnologías)
 
 ## Información personal
 * Nombre: Ayman El Salous
@@ -20,3 +21,6 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 ## Intereses
 - Ping Pong
 
+## Tecnologías
+- HTTML
+- CSS
