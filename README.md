@@ -25,3 +25,5 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 ## Tecnologías
 - HTML
 - CSS
+- Java
+- Python
