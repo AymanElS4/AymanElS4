@@ -4,9 +4,9 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 
 ## Contenido
 
-* [Información personal] (#información-personal)
-* [Proyectos] (#proyectos)
-* [Intereses] (#intereses)
+* Información personal (#información-personal)
+* Proyectos (#proyectos)
+* Intereses (#intereses)
 
 ## Información personal
 * Nombre: Ayman El Salous
