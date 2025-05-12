@@ -17,10 +17,11 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 
 ## Proyectos
 - Administración de Feria
+- Programa de generación de mapas topográficos a base de ecuaciones de figuras cónicas
   
 ## Intereses
 - Ping Pong
 
 ## Tecnologías
-- HTTML
+- HTML
 - CSS
