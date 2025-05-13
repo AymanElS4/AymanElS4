@@ -18,11 +18,14 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 
 ## Proyectos
  ### Administración de Feria(https://github.com/AymanElS4/POO-P--G-POO-P3-G09-)
-
+- Descripción
+- Colaboradores
  ### Programa de generación de mapas topográficos a base de ecuaciones de figuras cónicas
- 
+- Descripción
+- Colaboradores
  ### Programa de simulación de administración de registros(https://github.com/JulissaMC/Tarea02/tree/main)
-  
+- Descripcion
+- Colaboradores
 ## Intereses
 - Ping Pong
 
