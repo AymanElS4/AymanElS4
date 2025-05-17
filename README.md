@@ -28,6 +28,7 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
  ### [Programa de simulación de administración de hotel](https://github.com/JulissaMC/Tarea02/tree/main)
 - **Descripcion**: Un programa escrito en Java que simula la administración de un servicio de hospedaje, que incluye habitacion, reservas y paquetes(reserva con un paseo ), en dónde se pueden enviar notificaciones al usuario sobre su reserva/paquete.
 - **Colaboradores**: [JulissaMC](https://github.com/JulissaMC), [Ferofern](https://github.com/Ferofern)
+
 ## Intereses
 - Ping Pong
 - Programación
