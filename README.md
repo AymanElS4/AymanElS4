@@ -22,7 +22,7 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 - **Descripción**: Proyecto hecho con Java, el cual presenta una interfaz que le permite al usuario registrar ferias, resgistrar stands, ver si un stand está ocupado, y por último, registrar el negocio que estará en el stand.
 - **Colaboradores**: [KettyGiler](https://github.com/KettyGiler), [ManzanillaSebastian](https://github.com/ManzanillaSebastian)
 
- ### [Programa de generación de mapas topográficos en base de ecuaciones de figuras cónicas](https://colab.research.google.com/drive/1-KrCxDp-8rd2BdfUUpJ4MgawDnx6tPak?usp=sharing)
+ ### [Programa de generación de mapas topográficos en base a ecuaciones de figuras cónicas](https://colab.research.google.com/drive/1-KrCxDp-8rd2BdfUUpJ4MgawDnx6tPak?usp=sharing)
 
 - **Descripción**:Programa escrito en python, usando la librería matplotlib y Numpy, en donde el usuario puede ingresar una ecuación de una figura cónica, y se le regresa un mapa topográfico de dicha figura.
 - **Colaboradores**: [ManzanillaSebastian](https://github.com/ManzanillaSebastian), [rsaltos04](https://github.com/rsaltos04), [Steve Robinson](https://github.com/stikrobinson)(***Colaborador Principal***)
