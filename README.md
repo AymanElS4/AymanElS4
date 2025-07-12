@@ -32,6 +32,10 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 - **Descripcion**: Un programa escrito en Java que simula la administración de un servicio de hospedaje, que incluye habitacion, reservas y paquetes(reserva con un paseo ), en dónde se pueden enviar notificaciones al usuario sobre su reserva/paquete.
 - **Colaboradores**: [JulissaMC](https://github.com/JulissaMC), [Ferofern](https://github.com/Ferofern)
 
+### [Landing page para Laboratorios CeramicaDent](https://github.com/AymanElS4/landing)
+- **Descripción**: Programa escrito con html, tailwind css, y javascript que presenta una landing page para el laboratorio dental CeramicaDent, la página cuenta con varias formas de contacto.
+- **Colaboradores**: [rsaltos04](https://github.com/rsaltos04)
+
 ## Intereses
 - Ping Pong
 - Programación
@@ -41,4 +45,5 @@ Sitio personal donde puedes encontrar información sobre mí, mis proyectos y mi
 - CSS
 - Java
 - Python
+- Javascript
 
